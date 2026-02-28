@@ -149,21 +149,21 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
                   <td className="p-4">Public</td>
                   <td className="p-4">Manufacturing</td>
                   <td className="p-4">Market Value</td>
-                  <td className="p-4 text-center font-mono text-safe font-bold">> 2.99</td>
+                  <td className="p-4 text-center font-mono text-safe font-bold">&gt; 2.99</td>
                 </tr>
                 <tr className="border-t border-gray-700 hover:bg-gray-700/30 transition-colors bg-gray-800/30">
                   <td className="p-4 font-bold text-brand-secondary">Z'-Score</td>
                   <td className="p-4">Private</td>
                   <td className="p-4">Manufacturing</td>
                   <td className="p-4">Book Value</td>
-                  <td className="p-4 text-center font-mono text-safe font-bold">> 2.90</td>
+                  <td className="p-4 text-center font-mono text-safe font-bold">&gt; 2.90</td>
                 </tr>
                 <tr className="border-t border-gray-700 hover:bg-gray-700/30 transition-colors">
                   <td className="p-4 font-bold text-brand-secondary">Z''-Score</td>
                   <td className="p-4">Public or Private</td>
                   <td className="p-4">Non-Manufacturing</td>
                   <td className="p-4">Book Value</td>
-                  <td className="p-4 text-center font-mono text-safe font-bold">> 2.60</td>
+                  <td className="p-4 text-center font-mono text-safe font-bold">&gt; 2.60</td>
                 </tr>
               </tbody>
             </table>
